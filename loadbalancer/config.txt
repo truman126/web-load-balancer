@@ -1,0 +1,3 @@
+localhost:50082
+localhost:50070
+localhost:34000
